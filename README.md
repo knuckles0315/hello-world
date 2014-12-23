@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-My first Repo
+This is my first Repository and I hope to learn well
